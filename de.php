@@ -242,7 +242,7 @@ return [
     'Save gallery data' => 'Galleriedaten speichern',
     'Gallery removed' => 'Gallerie speichern',
     'Gallery saved!' => 'Gallerie gespeichert!',
-    'You don\'t have any images in this gallery.'=>'Sie haben noch keine Bilder zu dieser Gallerie hinzugefügt.'
+    'You don\'t have any images in this gallery.'=>'Sie haben noch keine Bilder zu dieser Gallerie hinzugefügt.',
     
     /*
      * STORMS
